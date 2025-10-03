@@ -1,0 +1,1 @@
+El uso de Serenity BDD con Screenplay Pattern probó ser una combinación poderosa para crear pruebas mantenibles, legibles y confiables, mientras que la gestión adecuada de dependencias y configuración resultó crucial para el éxito del proyecto.
